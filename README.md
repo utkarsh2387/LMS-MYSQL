@@ -44,7 +44,7 @@ This project provides an efficient way of organizing and retrieving library data
 
 Below is the **Entity-Relationship Diagram (ERD)** of the **Library Management System**, which visually represents how entities like books, members, and transactions are connected.
 
-![ER Diagram](https://github.com/Sushant98K/Library_Management_system_SQL/blob/main/libManagement.png)
+![ER Diagram](https://github.com/utkarsh2387/Library_Management_system_SQL/blob/main/libManagement.png)
 
 ---
 
@@ -52,7 +52,7 @@ Below is the **Entity-Relationship Diagram (ERD)** of the **Library Management S
 
 1. **Clone the repository** to your local machine:
    ```bash
-   git clone https://github.com/sushant98k/Library_Management_system_SQL.git
+   git clone https://github.com/utkarsh2387/Library_Management_system_SQL.git
    ```
 2. **Run the SQL scripts** in your preferred SQL environment:
    - `create_tables.sql`: Creates the necessary tables for the LMS.
@@ -75,7 +75,7 @@ Below is the **Entity-Relationship Diagram (ERD)** of the **Library Management S
 
 If you have any questions or would like to contribute to this project, feel free to reach out! 🙌
 
-- **LinkedIn**: [Sushant Kate](https://www.linkedin.com/in/sushant-kate)
+- **LinkedIn**: [Sushant Kate](https://www.linkedin.com/in/utkarsh-gupta-5a8267208/)
 - **Discord**: toy.breaker
 
 Let’s build and grow together as developers! 🚀💡
