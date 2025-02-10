@@ -76,6 +76,5 @@ Below is the **Entity-Relationship Diagram (ERD)** of the **Library Management S
 If you have any questions or would like to contribute to this project, feel free to reach out! 🙌
 
 - **LinkedIn**: [Sushant Kate](https://www.linkedin.com/in/utkarsh-gupta-5a8267208/)
-- **Discord**: toy.breaker
 
 Let’s build and grow together as developers! 🚀💡
